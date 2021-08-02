@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = b.ozpeker@hotmail.com
+	name = begumozpeker
